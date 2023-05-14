@@ -38,19 +38,19 @@ const CalculatorWrapper = () => {
         <Button value='7' onClick={handleButtonClick} />
         <Button value='8' onClick={handleButtonClick} />
         <Button value='9' onClick={handleButtonClick} />
-        <Button value='+' onClick={handleButtonClick} isAccent />
+        <Button value='+' onClick={handleButtonClick} />
         <Button value='4' onClick={handleButtonClick} />
         <Button value='5' onClick={handleButtonClick} />
         <Button value='6' onClick={handleButtonClick} />
-        <Button value='-' onClick={handleButtonClick} isAccent />
+        <Button value='-' onClick={handleButtonClick} />
         <Button value='1' onClick={handleButtonClick} />
         <Button value='2' onClick={handleButtonClick} />
         <Button value='3' onClick={handleButtonClick} />
-        <Button value='*' onClick={handleButtonClick} isAccent />
+        <Button value='*' onClick={handleButtonClick} />
         <Button value='0' onClick={handleButtonClick} />
         <Button value='.' onClick={handleButtonClick} />
-        <Button value='%' onClick={handleButtonClick} isAccent />
-        <Button value='/' onClick={handleButtonClick} isAccent />
+        <Button value='%' onClick={handleButtonClick} />
+        <Button value='/' onClick={handleButtonClick} />
         <Button value='C' onClick={handleButtonClick} isAccent />
         <Button value='=' onClick={handleButtonClick} isAccent />
       </div>

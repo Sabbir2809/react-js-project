@@ -1,6 +1,8 @@
 # Project Name: CALCULATOR APP
 
-### In this app we will implement the features are:
+[Live Link for Calculator App](https://calculatorapp3w.netlify.app/)
+
+### In this app I will implement the features are:
 
 1. Add, subtract, multiply, divide, percentage
 1. Support decimal values
