@@ -1,0 +1,13 @@
+.calculator-screen {
+  background-color: var(--primary-color);
+  color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 1rem;
+  font-size: 1.8rem;
+  height: 60px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
